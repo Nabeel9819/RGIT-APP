@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "416499392816",
+    "firebase_url": "https://rgit-5d66e.firebaseio.com",
+    "project_id": "rgit-5d66e",
+    "storage_bucket": "rgit-5d66e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416499392816:android:0b1fe9c58185825057e8f5",
+        "android_client_info": {
+          "package_name": "com.example.rgit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416499392816-0v6udjasla7va206n948u7bp7ceb0ac8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAzFRTEW1NiRLfpxQo592gZaIkICr_I2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416499392816-0v6udjasla7va206n948u7bp7ceb0ac8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
